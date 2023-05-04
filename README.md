@@ -1,7 +1,7 @@
  <div align="center">
  
 
-![-](https://github-readme-stats.vercel.app/api?username=re-cosmos&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-cosmos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![-](https://github-readme-stats.vercel.app/api?username=re-cosmos&show_icons=true&theme=transparent)
 
 ## Stacks
 
